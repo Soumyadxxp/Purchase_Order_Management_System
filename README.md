@@ -1,4 +1,4 @@
-# Purchase Order Management System (POMS)
+# Purchase Order Management System (POMS) 📝🛒📋
 
 A modern desktop-based Purchase Order Management System developed using **Python, PyQt5, SQLite, OpenPyXL, and ReportLab**. The application streamlines supplier management, purchase order processing, reporting, and analytics through an intuitive graphical interface.
 
